@@ -1,0 +1,2 @@
+# DDSGA
+Data_Driven_Semi_Global_Sequential_Alignment
